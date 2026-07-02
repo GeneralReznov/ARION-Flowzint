@@ -7,7 +7,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [Live Demo](#live-demo)
+- [Live Link](#live-link)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Directory Structure](#directory-structure)
@@ -30,9 +30,9 @@ ARION (Adaptive Real-time Intelligent Online Network) is a **RAG-based (Retrieva
 
 ---
 
-## Live Demo
+## Live Link
 
-> Deployed on Replit — accessible via browser with no installation required.
+> Deployed on Render — https://arion-flowzint.onrender.com/
 
 ---
 
